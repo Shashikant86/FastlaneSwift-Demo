@@ -1,0 +1,15 @@
+PODS:
+  - Hippolyte (0.1.0)
+  - XCFit (7.0.0)
+
+DEPENDENCIES:
+  - Hippolyte
+  - XCFit
+
+SPEC CHECKSUMS:
+  Hippolyte: cfd4d8c742ac114545699a5de443d7df036229e8
+  XCFit: 7520b7ea9a2c45a24f993f493b906ea104878fa3
+
+PODFILE CHECKSUM: e2d07db5f967665a2d5d6c2b4e3a97a073e73e0d
+
+COCOAPODS: 1.2.0
